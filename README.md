@@ -5,4 +5,4 @@ Goes with the blog:
 
 so use 
 ```git checkout part1```
-if you just want to to what is created in part1 of the blog
+if you just want to see what is created in part1 of the blog
