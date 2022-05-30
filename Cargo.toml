@@ -11,3 +11,7 @@ tracing-subscriber = { version = "0.3", features = ["env-filter"] }
 serde = "1.0"
 sqlx = { version = "0.5.13", features = ["postgres", "runtime-tokio-native-tls", "chrono"] }
 chrono = {version = "0.4", features = ["serde"]}
+validator = { version = "0.15", features = ["derive"] }
+thiserror = "1.0.29"
+http-body = "0.4.3"
+async-trait = "0.1"
